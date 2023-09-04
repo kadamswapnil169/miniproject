@@ -1,2 +1,2 @@
 # miniproject
-mini project 2
+mini project for github
